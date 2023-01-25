@@ -1,0 +1,41 @@
+React is a JavaScript Library.
+The Main FOcus is to built UI as fast as possible.
+So this is Used to Single Page application
+Means Complete in Single Page
+
+
+
+A single-page application (SPA) is a web application or website that interacts with the user by dynamically rewriting the current web page with new data from the server,
+ instead of loading entire new pages from a server.
+  This allows for a more fluid and responsive user experience,
+   similar to that of a native mobile application.
+    Examples of frameworks for building SPAs include
+     AngularJS, React, and Vue.js.
+
+
+
+Why React is Fast:
+
+It Uses Virtual DOM i.e. It will Update only the required
+ Part and Not the entire List or stuff
+
+
+ Why to Learn React:
+
+ Maintained By Facebook So long term plan...
+ High Demand due to fast Speed
+ Large Community for your Support
+ Mobile App Development with React-Native
+
+ App with ReactJS:
+ Netflix
+ Whatsapp web
+ Instagram
+ Airbnb
+
+ Prerequisites:
+ HTML CSS js
+
+ ES6 Understanding will make you comfortable with React js
+
+ 
