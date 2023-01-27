@@ -38,4 +38,60 @@ It Uses Virtual DOM i.e. It will Update only the required
 
  ES6 Understanding will make you comfortable with React js
 
+ React:
+ React is Generally used with NPM
+ But we can also use CDN
  
+ A CDN is a network of servers that distributes content from an “origin” server
+  throughout the world by caching content close to where each end user
+   is accessing the internet via a web-enabled device.
+    The content they request is first stored on the origin
+     server and is then replicated
+      and stored elsewhere as needed.
+
+
+
+Installations in Windows:
+
+Nodejs.org
+Download Recommended One
+
+
+What is NPM and why it is Used:
+
+npm (short for Node Package Manager) is a package manager for the JavaScript programming language. It is the default package manager for the JavaScript runtime environment Node.js. npm is used to install, update, and manage packages (or modules) of JavaScript code that can be used in a Node.js application.
+
+With npm, developers can easily share and reuse code across projects, by publishing their packages to the npm registry. Once a package is published to the npm registry, other developers can easily install it into their own projects by running a simple command.
+
+npm also makes it easy for developers to manage the dependencies of their projects. A dependency is a package that a project relies on in order to function. When a developer installs a package from the npm registry, npm will automatically download and install any dependencies that package requires.
+
+npm also provides a command line interface (CLI) which allow developers to perform various actions such as:
+
+Installing packages: npm install <package-name>
+Updating packages: npm update <package-name>
+Removing packages: npm uninstall <package-name>
+Searching packages: npm search <package-name>
+Viewing package information: npm info <package-name>
+Creating new projects: npm init
+Overall, npm is an essential tool for any developer working with Node.js and JavaScript, as it allows them to easily share, reuse, and manage code, making their development process more efficient and streamlined.
+
+
+Alternative to NPM:
+
+Yarn is an open-source package manager for JavaScript and is an alternative to npm (Node Package Manager). It was developed by Facebook in collaboration with other companies, and was first released in 2016.
+
+Like npm, Yarn is used to install, update, and manage packages of JavaScript code that can be used in a Node.js application. Yarn also allows developers to share and reuse code across projects by publishing packages to the npm registry.
+
+Yarn offers some features that are different from npm such as:
+
+Faster installation: Yarn uses a caching mechanism that speeds up the installation process by keeping a local cache of packages. This means that if a package has been previously installed, Yarn will not need to download it again.
+
+Offline mode: Yarn can work offline by using the cached packages from the previous installations.
+
+Consistency: Yarn uses a lockfile (a file that records the exact version of all the dependencies of a project) that ensures that every developer working on a project is using the same versions of the dependencies.
+
+Improved security: Yarn uses checksums to ensure that the packages installed are not tampered with, and it also automatically checks for security vulnerabilities in the packages.
+
+Improved user experience: Yarn has a more user-friendly command-line interface compared to npm.
+
+Overall, Yarn is a reliable and fast package manager that offers a number of advantages over npm and is a good option for JavaScript developers.
